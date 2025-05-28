@@ -4,6 +4,13 @@
 
 ---
 
+![Acme Paper Bag Hero Image](.acmebag.png)
+<p align="center">
+  <img src="./images/hero-bag.png" alt="Acme Paper Bag" width="400">
+</p>
+
+---
+
 ## 🔹 About Us
 
 Acme Innovations is a future-forward tech company dedicated to delivering **scalable**, *secure*, and ~~outdated~~ cutting-edge solutions.
