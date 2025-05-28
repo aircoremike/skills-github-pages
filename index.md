@@ -6,7 +6,7 @@
 
 ![Acme Paper Bag Hero Image](.acmebag.png)
 <p align="center">
-  <img src="./images/hero-bag.png" alt="Acme Paper Bag" width="400">
+  <img src=".acmebag.png" alt="Acme Paper Bag" width="400">
 </p>
 
 ---
